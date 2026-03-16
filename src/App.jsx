@@ -1,0 +1,1 @@
+Add main App component
